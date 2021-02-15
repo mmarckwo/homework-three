@@ -1,7 +1,6 @@
 # Travel-fly Home Page
 
-## Third homework assignment.
-
+Third homework assignment.
 Travel-fly's prototype home page.
 
 Link to page:
